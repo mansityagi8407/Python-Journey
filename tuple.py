@@ -22,7 +22,7 @@
 # print(index)
 
 tuple1 = (0, 1, 2, 5, 5, 7, 3, 8,3)
-# res = tuple1.count(3)
+res = tuple1.count(3)
 # res = tuple1.index(3)
-# print("count of 3 in tuple1 is:", res)
-print(count  3 in tuple1 is)
+print("count of 3 in tuple1 is:", res)
+
