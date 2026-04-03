@@ -8,6 +8,7 @@ class student:
 
 s1 = student("Annu",18)
 s2 = student("Mansi",18)
+s3 = student("Mansi",18)
 s1.display()
 s2.display()
-print
+s3.display()
