@@ -1,3 +1,4 @@
+"""  That provides functions to interacting with the OS. it allows to perform a wide variety of tasks,such as reading and writing files. interacting with the system,and runnning system commands."""
 import os
 
 # if(not os.path.exists("data")):
