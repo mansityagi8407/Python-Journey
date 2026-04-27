@@ -14,6 +14,7 @@ print(dic.get(45))
 print(dic.keys())
 print(dic.values())
 
+
 print(dic.items())
 for key, value in dic.items():
     print(f"The value corresponding to the key {key} is {value}")
