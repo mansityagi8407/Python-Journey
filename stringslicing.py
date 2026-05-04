@@ -5,6 +5,7 @@
 # print(fruit[:1])
 # print(fruit[-3:-1])
 
+
 a = "Mansi !!!"
 print(len(a))
 print(a.upper())
@@ -16,3 +17,4 @@ print(a.count("!"))
 print(a.endswith("."))
 print(a.find("o"))
 print(a.index("o"))
+
