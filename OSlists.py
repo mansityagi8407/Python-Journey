@@ -1,6 +1,7 @@
 import os
 folders = os.listdir("data")
 
+
 print(os.getcwd)
 os.chdir("/users")
 print(os.getcwd())
